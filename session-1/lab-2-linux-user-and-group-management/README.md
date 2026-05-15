@@ -1,4 +1,6 @@
 # Lab 2 - Linux User and Group Management
+## lab screen 
+<img width="1106" height="607" alt="Screenshot 2026-05-10 152451" src="https://github.com/user-attachments/assets/c8e37eec-9347-47c8-8540-7c7a5edd2bc5" />
 
 ## Objectives
 
