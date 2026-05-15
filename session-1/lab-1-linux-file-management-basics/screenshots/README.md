@@ -2,7 +2,8 @@
 
 ### Step 1 - Working with /etc/group
 
-![Step 1](<img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/275e5d23-f82f-4afa-b9df-463df63c48f2" />
+
+(<img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/275e5d23-f82f-4afa-b9df-463df63c48f2" />
 
 )
 
@@ -10,13 +11,11 @@
 
 ### Step 2 - Creating Directories and Files
 
-![Step 2](<img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/7f869609-3914-4ce0-baa0-cab4a74e6cf1" />
-)
+<img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/54331edd-395a-4d1f-97ee-69309e9d9035" />
 
 
 ---
 
 ### Step 3 - Creating Hard and Soft Links
 
-![Step 3](<img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/e656bded-6288-4331-901b-be59495e120b" />
-)
+<img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/93106345-e920-4ca7-a637-ebe5099adb24" />
