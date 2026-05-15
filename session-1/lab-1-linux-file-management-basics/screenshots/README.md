@@ -2,10 +2,9 @@
 
 ### Step 1 - Working with /etc/group
 
+<img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/275e5d23-f82f-4afa-b9df-463df63c48f2" />
 
-(<img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/275e5d23-f82f-4afa-b9df-463df63c48f2" />
 
-)
 
 ---
 
