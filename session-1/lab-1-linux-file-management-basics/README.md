@@ -1,7 +1,10 @@
 # Lab 1 - Linux File Management Basics
 
-## Objectives
 
+## lab screen 
+<img width="971" height="598" alt="image" src="https://github.com/user-attachments/assets/48d9f862-2d9b-4e32-a0d1-4e65cc4a1f8d" />
+
+## Objectives
 - Display system date and time
 - Count lines and words in files
 - Display the beginning and end of files
